@@ -4,3 +4,7 @@
 html {
     font-family: "Noto Sans KR", sans-serif;
 }
+
+.con {
+    max-width:1200px;
+}

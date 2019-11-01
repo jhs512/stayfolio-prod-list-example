@@ -38,6 +38,11 @@ a {
     display: block;
 }
 
+.img-box > img {
+    width: 100%;
+    display: block;
+}
+
 .inline-block {
     display: inline-block;
 }
